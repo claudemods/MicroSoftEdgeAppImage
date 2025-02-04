@@ -1,0 +1,2 @@
+# MicroSoftEdgeAppImage
+MicroSoftEdgeAppImage
