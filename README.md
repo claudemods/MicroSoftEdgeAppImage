@@ -1,9 +1,6 @@
 latest and greatest Unofficial AppImage Build From Latest Arch microsoft-edge-stable
 Arch Package v132.0.2957.140
 
-download
-https://www.pling.com/p/2257513
-
 if you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
